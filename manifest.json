@@ -1,0 +1,30 @@
+{
+  "title": "Silhouette Word Cloud Studio",
+  "creator": "Danvion Michael Grant",
+  "prepared": "2026-09-28",
+  "entrypoint": "index.html",
+  "original_filename": "index(1).html",
+  "original_sha256": "29a5cbed384c6aeea8d5e9cfe40df33a659ab228483b819cbcd9b7be62b99483",
+  "files": [
+    ".gitignore",
+    "ATTRIBUTIONS.md",
+    "AUTHORS.md",
+    "CHANGELOG.md",
+    "CITATION.cff",
+    "COPYRIGHT.md",
+    "LICENSE.txt",
+    "PRIVACY.md",
+    "README.md",
+    "SHA256SUMS.txt",
+    "UPLOAD.md",
+    "USER_GUIDE.md",
+    "VALIDATION.md",
+    "index.html",
+    "licenses/tuns-bold-LICENSE.txt",
+    "licenses/tuns-elegant-LICENSE.txt",
+    "licenses/tuns-regular-LICENSE.txt",
+    "licenses/tuns-script-LICENSE.txt",
+    "manifest.json"
+  ],
+  "repository": "https://github.com/Mic9Grant/Silhouette-Word-Cloud-Studio"
+}

@@ -1,0 +1,6 @@
+Silhouette Word Cloud Studio
+Copyright (c) 2026 Danvion Michael Grant. All rights reserved.
+
+No additional open-source license or redistribution permission is granted for the original application by this package. Obtain permission from the rights holder for uses requiring permission.
+
+Third-party components are excluded from this statement and retain their respective licenses. See ATTRIBUTIONS.md and licenses/.

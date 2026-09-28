@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this software using the metadata below."
+title: "Silhouette Word Cloud Studio"
+type: software
+authors:
+  - family-names: "Grant"
+    given-names: "Danvion Michael"
+abstract: "A browser-based tool for generating silhouette word clouds and exporting PNG or SVG artwork."
+keywords:
+  - word cloud
+  - silhouette
+  - typography
+  - Tunsicelody
+repository-code: "https://github.com/Mic9Grant/Silhouette-Word-Cloud-Studio"
